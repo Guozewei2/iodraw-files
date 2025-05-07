@@ -10,7 +10,7 @@
         <mxCell id="JjBMmDQr7pBpEKtmG0QR-2" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;GCN&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="436.65" width="60" height="27.7" as="geometry" />
         </mxCell>
-        <mxCell id="JjBMmDQr7pBpEKtmG0QR-3" value="Add &amp;amp; Drop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JjBMmDQr7pBpEKtmG0QR-3" value="&lt;b&gt;Add &amp;amp; Drop&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="610" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
