@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JjBMmDQr7pBpEKtmG0QR-1" value="&lt;b&gt;Bi-LSTM&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#d79b00;rotation=0;fontFamily=Times New Roman;fillColor=#ffe6cc;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="439.99999999999994" width="70" height="21" as="geometry" />
+          <mxGeometry x="197.5" y="443.34999999999997" width="70" height="21" as="geometry" />
         </mxCell>
         <mxCell id="JjBMmDQr7pBpEKtmG0QR-2" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;GCN&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="436.65" width="60" height="27.7" as="geometry" />
@@ -140,7 +140,7 @@
             <mxPoint x="440" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JjBMmDQr7pBpEKtmG0QR-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JjBMmDQr7pBpEKtmG0QR-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JjBMmDQr7pBpEKtmG0QR-3" target="JjBMmDQr7pBpEKtmG0QR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="640" as="sourcePoint" />
             <mxPoint x="440" y="590" as="targetPoint" />
