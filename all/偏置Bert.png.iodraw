@@ -190,8 +190,8 @@
         <mxCell id="PxXrudPQZS7GdNGYrQ5h-54" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Mutual Compuation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="183" y="48" width="133" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="PxXrudPQZS7GdNGYrQ5h-55" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;(a) Self-Attention with Structure Bias&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="218" y="358" width="234" height="19" as="geometry" />
+        <mxCell id="PxXrudPQZS7GdNGYrQ5h-55" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;(b) Self-Attention with Structure Bias&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="214" y="353" width="243" height="29" as="geometry" />
         </mxCell>
         <mxCell id="PxXrudPQZS7GdNGYrQ5h-56" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px&quot; color=&quot;#000000&quot;&gt;Add&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fontColor=#ffffff;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="275" y="206" width="88" height="37" as="geometry" />
