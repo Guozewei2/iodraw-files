@@ -7,8 +7,8 @@
         <mxCell id="JjBMmDQr7pBpEKtmG0QR-1" value="&lt;b&gt;Bi-LSTM&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#000000;rotation=0;fontFamily=Times New Roman;fillColor=#FFFFFF;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="439.99999999999994" width="70" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="JjBMmDQr7pBpEKtmG0QR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="431" y="787.21" width="236" height="67.79" as="geometry" />
+        <mxCell id="JjBMmDQr7pBpEKtmG0QR-2" value="GCN" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="416.61" width="236" height="67.79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
