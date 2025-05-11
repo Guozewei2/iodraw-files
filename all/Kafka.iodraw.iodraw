@@ -76,7 +76,7 @@
             <mxPoint x="319" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ChmE7a3aRnPzBOhMRzhj-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=20;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ChmE7a3aRnPzBOhMRzhj-30">
+        <mxCell id="ChmE7a3aRnPzBOhMRzhj-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ChmE7a3aRnPzBOhMRzhj-30" target="ChmE7a3aRnPzBOhMRzhj-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="310" as="sourcePoint" />
             <mxPoint x="366" y="393" as="targetPoint" />
@@ -86,7 +86,7 @@
           <mxGeometry x="269" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;副本 Leader&lt;/font&gt;&lt;/b&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="269" y="372.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="269" y="373.5" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
