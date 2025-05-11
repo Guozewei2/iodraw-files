@@ -40,7 +40,7 @@
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;NetworkClient&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;网络客户端&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="435" y="446" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ChmE7a3aRnPzBOhMRzhj-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ChmE7a3aRnPzBOhMRzhj-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChmE7a3aRnPzBOhMRzhj-17" target="ChmE7a3aRnPzBOhMRzhj-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
             <mxPoint x="440" y="260" as="targetPoint" />
