@@ -100,6 +100,12 @@
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Zookeeper&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="780" y="60" width="160" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="ChmE7a3aRnPzBOhMRzhj-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ChmE7a3aRnPzBOhMRzhj-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="300" as="sourcePoint" />
+            <mxPoint x="540" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
