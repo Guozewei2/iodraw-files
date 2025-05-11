@@ -58,10 +58,13 @@
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;NetworkClient&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;网络客户端&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="795" y="271" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ChmE7a3aRnPzBOhMRzhj-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChmE7a3aRnPzBOhMRzhj-24" target="ChmE7a3aRnPzBOhMRzhj-9">
+        <mxCell id="ChmE7a3aRnPzBOhMRzhj-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ChmE7a3aRnPzBOhMRzhj-24" target="ChmE7a3aRnPzBOhMRzhj-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="435" y="305.5" as="sourcePoint" />
             <mxPoint x="800" y="192.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="210" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-28" value="&lt;div&gt;&lt;font color=&quot;#1c0c3d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;replication Manager&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#1c0c3d&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;副本管理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
@@ -129,7 +132,7 @@
             <mxPoint x="540" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ChmE7a3aRnPzBOhMRzhj-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ChmE7a3aRnPzBOhMRzhj-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ChmE7a3aRnPzBOhMRzhj-22" target="ChmE7a3aRnPzBOhMRzhj-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="300" as="sourcePoint" />
             <mxPoint x="540" y="250" as="targetPoint" />
