@@ -19,7 +19,7 @@
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;NetworkClient&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;网络客户端&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="435" y="220" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ChmE7a3aRnPzBOhMRzhj-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ChmE7a3aRnPzBOhMRzhj-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="60" y="200" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Producer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;NetworkClient&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;网络客户端&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="75" y="270" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ChmE7a3aRnPzBOhMRzhj-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ChmE7a3aRnPzBOhMRzhj-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="280" y="300" width="440" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Broker&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
