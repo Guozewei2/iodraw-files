@@ -17,7 +17,7 @@
           <mxGeometry x="405" y="162" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;NetworkClient&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;网络客户端&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="225" width="130" height="50" as="geometry" />
+          <mxGeometry x="430" y="227.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ChmE7a3aRnPzBOhMRzhj-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="22" y="200" width="160" height="190" as="geometry" />
